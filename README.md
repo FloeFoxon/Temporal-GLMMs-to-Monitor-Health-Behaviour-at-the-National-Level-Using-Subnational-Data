@@ -7,4 +7,4 @@ All code required to run the analyses in this work are contained within the 'Cod
 
 ## Data
 
-All data required to run these analyses are publicly available from the data sources described in Appendix A of the corresponding paper.
+All data required to run these analyses are publicly available from the data sources described in Appendix A of the 'Supplemental Materials' file located in this repository.
